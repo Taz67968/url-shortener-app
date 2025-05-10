@@ -11,6 +11,9 @@ import winstonLogger from "./utils/logger.js"
 import indexRouter from './routes/index.js';
 import usersRouter from './routes/users.js';
 import authRouter from './routes/auth.js'
+import urlRoutes from './routes/url.js'
+import authMiddleware from './middlewares/authmiddlewares.js';
+import redirectRoutes from './routes/redirect.js'
 
 const app = express();
 
@@ -32,6 +35,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use("/auth", authRouter)
+app.use('/api', urlRoutes)
+app.use('/s', redirectRoutes)
+
+
 
 
 

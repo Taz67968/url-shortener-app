@@ -3812,3 +3812,190 @@
 {"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-07 19:50:06"}
 {"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-07 19:50:06"}
 {"level":"info","message":"Recieved SIGINT","timestamp":"2025-05-07 19:50:46"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-07 19:51:57"}
+{"level":"info","message":"Recieved SIGINT","timestamp":"2025-05-07 20:04:11"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 09:16:20"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:01:04"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:01:04"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:05"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:50"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:01:53"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:02:25"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:09:13"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:09:52"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:12:49"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:18:16"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:18:16"}
+{"level":"warn","message":"Auth middleware: no token provided","timestamp":"2025-05-08 10:23:49"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:23:49 +0000] \"POST /api/shorten HTTP/1.1\" 401 53 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:23:49"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:24:06"}
+{"level":"info","message":"Executed query: { text: SELECT id, email, first_name, last_name, password FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 45ms, rows: 0}","timestamp":"2025-05-08 10:24:06"}
+{"level":"warn","message":"Login attempt failed: user not found - john@example.com","timestamp":"2025-05-08 10:24:06"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:24:06 +0000] \"POST /auth/userLogin HTTP/1.1\" 401 33 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:24:06"}
+{"level":"info","message":"Executed query: { text: SELECT id, email, first_name, last_name, password FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 4ms, rows: 0}","timestamp":"2025-05-08 10:24:12"}
+{"level":"warn","message":"Login attempt failed: user not found - john@example.com","timestamp":"2025-05-08 10:24:12"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:24:12 +0000] \"POST /auth/userLogin HTTP/1.1\" 401 33 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:24:12"}
+{"level":"info","message":"Executed query: { text: SELECT email FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 2ms, rows: 0}","timestamp":"2025-05-08 10:24:16"}
+{"level":"info","message":"Executed query: { text: INSERT INTO users (first_name, last_name, email, password)\n                             VALUES($1,$2..., params: [\"John\",\"Doe\",\"john@example.com\",\"$2b$10$bmXFqZFhF9utphsDwm5//udK4cIq3i0WaSvr33kmad85HtdFzCLOm\"], duration: 22ms, rows: 1}","timestamp":"2025-05-08 10:24:16"}
+{"level":"info","message":"user registered successfully: 7b96559d-a72c-4cc7-9b92-aabc7246572d","timestamp":"2025-05-08 10:24:16"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:24:16 +0000] \"POST /auth/userRegister HTTP/1.1\" 201 97 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:24:16"}
+{"level":"info","message":"Executed query: { text: SELECT id, email, first_name, last_name, password FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 1ms, rows: 1}","timestamp":"2025-05-08 10:24:20"}
+{"level":"info","message":"user logged in succesfully: john@example.com (ID : 7b96559d-a72c-4cc7-9b92-aabc7246572d)","timestamp":"2025-05-08 10:24:20"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:24:20 +0000] \"POST /auth/userLogin HTTP/1.1\" 200 395 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:24:20"}
+{"level":"error","message":"Auth iddleware: token verification failed invalid token","name":"JsonWebTokenError","stack":"JsonWebTokenError: invalid token\n    at module.exports [as verify] (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/jsonwebtoken/verify.js:82:17)\n    at authMiddleware (file:///home/tazoh-cliff/Desktop/url-shortener-app/middlewares/authmiddlewares.js:14:25)\n    at Layer.handleRequest (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/layer.js:152:17)\n    at trimPrefix (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:342:13)\n    at /home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:297:9\n    at processParams (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:582:12)\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:291:5)\n    at /home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:688:15\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:276:14)\n    at Function.handle (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:186:3)","timestamp":"2025-05-08 10:24:37"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:24:37 +0000] \"POST /api/shorten HTTP/1.1\" 401 32 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:24:37"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:01"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:04"}
+{"level":"info","message":"Recieved SIGINT","timestamp":"2025-05-08 10:25:11"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:14"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:25:14"}
+{"level":"error","message":"Auth iddleware: token verification failed invalid token","name":"JsonWebTokenError","stack":"JsonWebTokenError: invalid token\n    at module.exports [as verify] (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/jsonwebtoken/verify.js:82:17)\n    at authMiddleware (file:///home/tazoh-cliff/Desktop/url-shortener-app/middlewares/authmiddlewares.js:14:25)\n    at Layer.handleRequest (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/layer.js:152:17)\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/route.js:117:3)\n    at handle (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/layer.js:152:17)\n    at /home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:295:15\n    at processParams (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:582:12)\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:291:5)","timestamp":"2025-05-08 10:25:21"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:25:21 +0000] \"POST /api/shorten HTTP/1.1\" 401 32 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:25:21"}
+{"level":"error","message":"Auth iddleware: token verification failed invalid token","name":"JsonWebTokenError","stack":"JsonWebTokenError: invalid token\n    at module.exports [as verify] (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/jsonwebtoken/verify.js:82:17)\n    at authMiddleware (file:///home/tazoh-cliff/Desktop/url-shortener-app/middlewares/authmiddlewares.js:14:25)\n    at Layer.handleRequest (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/layer.js:152:17)\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/route.js:117:3)\n    at handle (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/lib/layer.js:152:17)\n    at /home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:295:15\n    at processParams (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:582:12)\n    at next (/home/tazoh-cliff/Desktop/url-shortener-app/node_modules/router/index.js:291:5)","timestamp":"2025-05-08 10:25:23"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:25:23 +0000] \"POST /api/shorten HTTP/1.1\" 401 32 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:25:23"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:25:48"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:25:48 +0000] \"POST /api/shorten HTTP/1.1\" 500 416 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:25:48"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:26:39"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:26:45 +0000] \"POST /api/shorten HTTP/1.1\" 500 528 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:26:45"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:29:05"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:29:11 +0000] \"POST /api/shorten HTTP/1.1\" 500 560 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:29:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:30:48 +0000] \"POST /api/shorten HTTP/1.1\" 400 1158 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:30:48"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:31:08"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/May/2025:09:31:08 +0000] \"POST /api/shorten HTTP/1.1\" 500 560 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-08 10:31:08"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-08 10:33:23"}
+{"level":"info","message":"Recieved SIGHUP","timestamp":"2025-05-08 22:14:37"}
+{"level":"info","message":"Database is configured for: urlShortener","timestamp":"2025-05-09 07:44:02"}
+{"level":"info","message":"Attempting to Start server on port 3000","timestamp":"2025-05-09 07:44:03"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-09 07:44:03"}
+{"level":"info","message":"Database connection pool established successfully","timestamp":"2025-05-09 07:44:03"}
+{"level":"info","message":"Initializing database schema...","timestamp":"2025-05-09 07:44:03"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-05-09 07:44:06"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-09 07:44:06"}
+{"level":"info","message":"Starting server on port 3000","timestamp":"2025-05-09 07:44:06"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-09 07:54:41"}
+{"level":"info","message":"Executed query: { text: SELECT id, email, first_name, last_name, password FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 426ms, rows: 0}","timestamp":"2025-05-09 07:54:42"}
+{"level":"warn","message":"Login attempt failed: user not found - john@example.com","timestamp":"2025-05-09 07:54:42"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:06:54:42 +0000] \"POST /auth/userLogin HTTP/1.1\" 401 33 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 07:54:42"}
+{"level":"info","message":"Executed query: { text: SELECT email FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 5ms, rows: 0}","timestamp":"2025-05-09 07:54:49"}
+{"level":"info","message":"Executed query: { text: INSERT INTO users (first_name, last_name, email, password)\n                             VALUES($1,$2..., params: [\"John\",\"Doe\",\"john@example.com\",\"$2b$10$C5qB.gRcgveXqTkbMGqE3uakofb3CUyyzWQIOiDRz67dossTzlSBK\"], duration: 71ms, rows: 1}","timestamp":"2025-05-09 07:54:49"}
+{"level":"info","message":"user registered successfully: 786e2786-3fb1-46d2-a165-7b41772d06fa","timestamp":"2025-05-09 07:54:49"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:06:54:49 +0000] \"POST /auth/userRegister HTTP/1.1\" 201 97 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 07:54:49"}
+{"level":"info","message":"Executed query: { text: SELECT id, email, first_name, last_name, password FROM users WHERE email = $1..., params: [\"john@example.com\"], duration: 2ms, rows: 1}","timestamp":"2025-05-09 07:54:53"}
+{"level":"info","message":"user logged in succesfully: john@example.com (ID : 786e2786-3fb1-46d2-a165-7b41772d06fa)","timestamp":"2025-05-09 07:54:54"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:06:54:54 +0000] \"POST /auth/userLogin HTTP/1.1\" 200 395 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 07:54:54"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-09 07:55:17"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:06:55:17 +0000] \"POST /api/shorten HTTP/1.1\" 201 50 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 07:55:17"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-09 08:05:42"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:07:05:42 +0000] \"GET /api/my-urls HTTP/1.1\" 200 142 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 08:05:42"}
+{"level":"info","message":"Client connected from Pool (Total count: 1","timestamp":"2025-05-09 08:16:20"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:07:16:20 +0000] \"GET /api/my-urls HTTP/1.1\" 200 142 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 08:16:20"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2025:07:16:23 +0000] \"GET /api/my-urls HTTP/1.1\" 200 142 \"-\" \"insomnia/11.1.0\"","timestamp":"2025-05-09 08:16:23"}
+{"level":"info","message":"Recieved SIGHUP","timestamp":"2025-05-09 11:22:39"}

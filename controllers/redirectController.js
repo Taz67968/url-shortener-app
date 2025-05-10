@@ -1,6 +1,6 @@
-import pool from ('../config/db');
+import {pool} from '../config/db.js';
 
-export default handleRedirect = async (req, res, next) => {
+export const handleRedirect = async (req, res, next) => {
   const { shortCode } = req.params;
   try {
     const result = await pool.query('SELECT * FROM urls WHERE short_code = $1', [shortCode]);
