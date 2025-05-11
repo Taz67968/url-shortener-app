@@ -39,6 +39,7 @@ app.use('/api', urlRoutes)
 app.use('/s', redirectRoutes)
 
 
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 
 
