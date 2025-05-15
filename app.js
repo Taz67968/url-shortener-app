@@ -6,6 +6,8 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 import morgan from 'morgan';
 import winstonLogger from "./utils/logger.js"
+import swaggerUi from "swagger-ui-express"
+import swaggerSpec from './swaggerConfig.js';
 
 
 import indexRouter from './routes/index.js';

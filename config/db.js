@@ -38,8 +38,6 @@ const initialzeDbSchema = async () => {
   const client = await pool.connect();
   try {
     logger.info("Initializing database schema...");
-    await client.query("DROP TABLE IF EXISTS urls CASCADE;");
-    await client.query("DROP TABLE IF EXISTS users CASCADE;");
 
     await client.query("CREATE EXTENSION IF NOT EXISTS pgcrypto;");
 

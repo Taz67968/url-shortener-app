@@ -38,7 +38,7 @@ const logger = winston.createLogger ({
               new winston.transports.File({filename:path.join(logDir, "exceptions.log") })
           ],
           rejectionsHandler: [
-              new winston.transports.File({filename: path.join(logDir,"rejectoins.log") })
+              new winston.transports.File({filename: path.join(logDir,"rejections.log") })
           ],
           exitOnError:false
       

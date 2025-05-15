@@ -13,7 +13,7 @@ export const shortenUrl = async (req,res, next) => {
         if (exists.rows.length > 0 ) return res.status(409).json({error:'Custom code already exists'})
 
             const result= await pool.query('INSERT INTO urls (user_id, short_code, long_url, expires_at, created_at, clicks) VALUES ($1, $2, $3, $4, NOW(), 0 ) RETURNING *', [userId,code, longUrl, expiresAt || null]) 
-            res.status(201).json({shortCode: result.rows[0].short_code, shortUrl: `${BASE_URL}/S/${result.rows[0].short_code}`})
+            res.status(201).json({shortCode: result.rows[0].short_code, shortUrl: `${BASE_URL}/s/${result.rows[0].short_code}`})
     } catch (err) {
         next(err)
     }
