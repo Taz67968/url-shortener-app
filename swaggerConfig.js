@@ -44,7 +44,7 @@ const swaggerOptions = {
         url: {
           type: 'object',
           properties: {
-            id: { type: 'string', format: 'uuid', description: 'Provider ID' },
+            id: { type: 'string', format: 'uuid', description: 'Url ID' },
             user_id: { type: 'string', format: 'uuid', description: 'Provider ID' },
             long_url: { type: 'string' },
             short_code: { type: 'string' },

@@ -14,7 +14,6 @@ import indexRouter from './routes/index.js';
 import usersRouter from './routes/users.js';
 import authRouter from './routes/auth.js'
 import urlRoutes from './routes/url.js'
-import authMiddleware from './middlewares/authmiddlewares.js';
 import redirectRoutes from './routes/redirect.js'
 
 const app = express();
@@ -24,7 +23,6 @@ const __dirname = dirname(__filname)
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
 
 const morganFormat = process.env.NODE_ENV === "production" ? "dev" : 'combined'
 app.use(morgan(morganFormat, { stream: winstonLogger.stream }));
